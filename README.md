@@ -1,2 +1,4 @@
-# extend_pandas
-Trying out different ways of extending Pandas
+# Extending Pandas
+Trying out different ways of extending Pandas according to the documentation:\
+https://pandas.pydata.org/docs/development/extending.html
+
