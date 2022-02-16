@@ -2,6 +2,9 @@
 Trying out different ways of extending Pandas according to the documentation:\
 https://pandas.pydata.org/docs/development/extending.html
 
+## TODO
+Extending dtypes is quite complex, and therefore I have note handled it to completion yet. Some work may be found under extension_types, but will be a work in progress.
+
 
 ### Simple functions that take and return dataframes, is not really "extending"
 But its a very good place to start, and a good way of exploring what next step to take and organize by.
